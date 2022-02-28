@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mgakou
-- 👀 I’m interested in Computer science, everything related to network, programs, to computer haha
+- 👀 I’m interested in Computer science, everything related to network, programs, to computer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a Python project
 - 📫 How to reach me : mhmdgakou@gmail.com
